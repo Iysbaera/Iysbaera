@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">⚡ Currently a Product Manager in <a href="http://bulltor.ai"><b>Bulltor.ai</b></a></p>
+<p align="left">⚡ Currently a Product Manager in <a href="https://t.me/playwalletbot"><b>Playwallet</b></a></p>
 
 ###
 
