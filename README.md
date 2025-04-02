@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">⚡ Currently a COO in <a href="https://t.me/playwalletbot"><b>OWB Studiot</b></a></p>
+<p align="left">⚡ Currently a COO in <a href="https://onewayblock.com"><b>OWB Studio</b></a></p>
 
 
 ###
