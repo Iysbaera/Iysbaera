@@ -6,19 +6,8 @@
 
 ###
 
-<p align="left">⚡ Currently a Product Manager in <a href="https://t.me/playwalletbot"><b>Playwallet</b></a></p>
+<p align="left">⚡ Currently a COO in <a href="https://t.me/playwalletbot"><b>OWB Studiot</b></a></p>
 
-###
-
-<h3 align="left">💡Projects with My Work</h3>
-
-###
-
-- [**Bulltor.ai**](http://bulltor.ai): Service for on-chain NFT analytics with custom smart-money filtering.
-- [**Clash of Coins**](https://clashofcoins.com/): MMORTS on blockchain with unique mechanics and NFT collection.
-- [**Play Wallet**](https://t.me/playwalletbot): The easiest way to top up the balance of Steam through a Telegram bot, buy digital services and more.
-- [**Clash Arena**](https://clasharena.io/): Blockchain-based PvP browser game with unique NFT avatars.
-- [**Hop Chains**](https://github.com/hop-chain/hopchain-near-contracts/blob/main/HOP%20CHAIN%20WHITEPAPER.pdf): On-chain tactic game which was insipired by Chinese Checkers.
 
 ###
 
